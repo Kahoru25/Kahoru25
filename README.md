@@ -10,7 +10,6 @@
 
 ### Algunas estadisticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kahoru25&show_icons=true&theme=tokyonight" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kahoru25&theme=tokyonight" width="45%"/>
 </div>
 <div align="center">
