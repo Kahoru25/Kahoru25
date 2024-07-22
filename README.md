@@ -70,6 +70,14 @@
 
 <br/>  
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/12146263374">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12146263374&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 
  ------
