@@ -80,6 +80,6 @@
 
 
 
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kahoru25&layout=compact)](https://github.com/Kahoru25/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
  ------
