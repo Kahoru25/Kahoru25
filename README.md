@@ -84,6 +84,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b74fdbc9-07cf-40e5-b464-47c6dc626acd)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@b74fdbc9-07cf-40e5-b464-47c6dc626acd)](https://github.com/anuraghazra/github-readme-stats)
 
  ------
