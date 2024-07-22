@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Algunas estadisticas
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kahoru25&theme=tokyonight" width="45%"/>
 </div>
@@ -70,10 +70,6 @@
 
 <br/>  
 
-### Contatos: 
-<p align='left'>
-   <a href="https://www.linkedin.com/in/christian-roberto40/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:christian2020022014@gmail.com"></a>&nbsp;&nbsp;
- </p>
+
 
  ------
