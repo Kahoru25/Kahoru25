@@ -78,8 +78,12 @@
   </a>
 </div>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kahoru25)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Kahoru25=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
  ------
