@@ -73,17 +73,15 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/12146263374">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12146263374)
-  </a>
+      [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12146263374)](https://open.spotify.com/user/12146263374)
 </div>
-
+<div align="center" >
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kahoru25)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+</div>
 
 
  ------
